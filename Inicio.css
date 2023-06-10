@@ -1,0 +1,61 @@
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2017/07/01/19/48/background-2462430_1280.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    /* Otros estilos para el fondo */
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #333;
+    background-color: #f8f8f8;
+  }
+
+  h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #007bff;
+    text-align: center;
+  }
+
+  p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .about-me {
+    margin-top: 40px;
+    text-align: center;
+  }
+
+  .about-me p {
+    margin-bottom: 20px;
+  }
+
+  .motivo {
+    margin-top: 40px;
+    text-align: center;
+  }
+
+  .motivo p {
+    margin-bottom: 20px;
+  }
